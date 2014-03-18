@@ -5,4 +5,4 @@ git tesffaefaft add readme.txt
   607  git config --global user.email "chenshangwei@120.net"
   608  git commit -m 'git test'
   609  vim readme.txt 
-  610  git commit -m 'git test'st
+  saefaefaf610  git commit -m 'git test'st
