@@ -1,2 +1,2 @@
 this is a test for git!
-Create a new branch is quick.
+Create a new branch is quick & simple.
